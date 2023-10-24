@@ -23,6 +23,7 @@ make
 
 creer un fichier .h dans VIABLAB/source/data
 creer un fichier .json dans VIABLAB/INPUT
+ajouter string paramsFile = "fichier.json" et #include "../data/fichier.h" dans VIABLAB/source/data/ModelDataInclusion
 
 ```bash
 make
